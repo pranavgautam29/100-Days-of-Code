@@ -1,5 +1,3 @@
-
-
 from math import floor
 from tkinter import *
 
