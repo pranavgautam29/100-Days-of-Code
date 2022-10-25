@@ -34,7 +34,6 @@ def random_pass():
     pass_input.insert(0,password)
 
     
-
 # ---------------------------- SAVE PASSWORD ------------------------------- #
 
 
